@@ -54,7 +54,7 @@ Mon objectif : transformer les données en **insights stratégiques** et en **ou
 - 📍 Montreuil, France  
 - 📞 +33 7 58 85 27 12  
 - ✉️ [r.tekem.23@eigsi.fr](mailto:r.tekem.23@eigsi.fr)  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(à personnaliser)*  
+- 💼 [LinkedIn](https://www.linkedin.com/) *(ROMARIC TEKEM TEUBISSE)*  
 
 ---
 ✨ Merci de visiter mon GitHub ! Explorez mes projets et n’hésitez pas à me contacter pour collaborer.
