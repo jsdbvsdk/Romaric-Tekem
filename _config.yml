@@ -1,0 +1,37 @@
+# Informations principales du site
+title: "Portfolio Data Scientist - Tekem Romaric"
+description: "Bienvenue sur mon portfolio GitHub. Je suis Data Scientist & Analyst chez Vishay SA, spécialisé en Machine Learning, Data Analysis et Business Intelligence."
+baseurl: "" # garder vide si ton site est à la racine
+url: "https://romarictekeem.github.io" # à remplacer par ton vrai user GitHub
+
+# Auteur
+author:
+  name: "Tekem Romaric"
+  email: "r.tekem.23@eigsi.fr"
+  linkedin: "https://www.linkedin.com/in/ton-lien" # à personnaliser
+  github: "https://github.com/romarictekeem"
+
+# Thème (choix : minima est simple, tu peux en tester d'autres sur https://pages.github.com/themes/)
+theme: minima
+
+# Navigation
+header_pages:
+  - index.md
+  - projets.md
+  - about.md
+  - contact.md
+
+# Markdown & plugins
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Options SEO
+seo:
+  type: "Person"
+  name: "Tekem Romaric"
+  description: "Ingénieur Data Scientist & Analyst"
+  twitter:
+    card: "summary"
+    username: "tonTwitter" # si tu en as
