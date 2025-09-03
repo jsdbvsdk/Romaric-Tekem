@@ -23,7 +23,7 @@ Mon objectif : transformer les données en **insights stratégiques** et en **ou
 - [📊 **Dashboard Power BI – Supply Chain chez Sanofi**](https://github.com/ton-profil/project-supplychain)  
   Création de tableaux de bord interactifs pour le suivi des KPI en logistique.  
 
-- [🤖 **Prévision de la demande produits**](https://github.com/ton-profil/project-forecast)  
+- [🤖 **Prévision de la demande produits**]([https://github.com/ton-profil/project-forecast](https://github.com/jsdbvsdk/Romaric-Tekem/blob/main/Le_Prophet_test.ipynb))  
   Développement de modèles de **Machine Learning** pour améliorer les prévisions de ventes.  
 
 - [🧹 **Pipeline de nettoyage et transformation de données**](https://github.com/ton-profil/project-datacleaning)  
